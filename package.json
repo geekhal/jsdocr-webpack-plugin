@@ -1,0 +1,28 @@
+{
+  "name": "jsdocr-webpack-plugin",
+  "version": "0.0.1",
+  "description": "One plugin for webpack to build jsdoc, and provide a server to serve jsdoc files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HalZhan/jsdocr-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "node",
+    "jsdoc"
+  ],
+  "author": "halzhan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HalZhan/jsdocr-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/HalZhan/jsdocr-webpack-plugin#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "serve-favicon": "^2.5.0"
+  }
+}
