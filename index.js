@@ -171,7 +171,7 @@ function runJsdoc(options) {
  * @param {String} [options.favicon] The path of favicon.ico's.
  * @param {String} [options.hook] The hook of webpack when we will build jsdoc.
  * @param {Boolean} [options.jsdocDebug] Display or not the debug info of jsdoc's. (Error info will still be displayed.)
- * @param {Boolean} [options.port] The port which will be binded to serve jsdoc files.
+ * @param {String} [options.port] The port which will be binded to serve jsdoc files.
  * @param {String} [options.readme] The path of readme.md for jsdoc.
  * @param {Boolean} [options.serve] Start or not a server to serve files.
  * @param {Boolean} [options.serverDebug] Display or not the debug info of server's. (Error info will still be displayed.)
